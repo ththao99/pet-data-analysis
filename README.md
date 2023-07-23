@@ -1,5 +1,9 @@
 
-## Các truy vấn nghiệp 
+## Description
+The project aimed at building Data Warehouse for a dataset about adopted pets. The tool used in the project is Microsoft Visual Studio. 
+After the data is integrated to data warehouse, a number of queries have been performed to explore the data and answer business questions. 
+
+## Các truy vấn nghiệp vụ 
 
 1.	Có bao nhiêu con mèo trên 3 tháng tuổi mà có lông dài 
 2.	Top 5 tiểu bang có số lượng vật nuôi nhiều nhất
