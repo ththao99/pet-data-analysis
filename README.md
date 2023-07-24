@@ -24,14 +24,17 @@ After the data was uploaded to the SQL server, a number of queries have been don
 
 1.	How many more-than-3-month-old cats have long fur?
 Result: 
-![query1](assets/image-7.png)
+ ![image](https://github.com/ththao99/pet-data-analysis/assets/135719243/2c3b9096-ee56-4f08-883b-5cf7298e5c88)
+
 2.	Top 5 states have the largest number of pets 
 Result: 
-![query2](assets/image-4.png)
+![image](https://github.com/ththao99/pet-data-analysis/assets/135719243/d8be6015-7cee-4df0-ae8a-61fb50bc755a)
+
 
 3.	The number of pets for each kind
 Result: 
 ![query3](assets/image-5.png)
 
-4.	How many more-than-1-month-old pets met the heath requirements (Vaccinated, dewormed, Sterilized, and in a healthy state)? 
-![query4](assets/image-6.png)
+4.	How many more-than-1-month-old pets met the health requirements (Vaccinated, dewormed, Sterilized, and in a healthy state)? 
+![image](https://github.com/ththao99/pet-data-analysis/assets/135719243/ecf64189-a190-48bd-8461-1a3b1f4ebd57)
+
