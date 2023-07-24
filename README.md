@@ -13,25 +13,25 @@ The model is following the star schema. With Pet_Fact is the main fact table con
 
 The Dimension tables were uploaded firstly. With Sequence Container, all the Dimension tables were uploaded at the same time to save time. 
 
-![Dataflow](image-2.png)
+![Dataflow](assets/image-2.png)
 
 Then the fact table was loaded after that. The fact table was linked to Dimention tables using Look up function. 
 
-![Fact table ](image-1.png)
+![Fact table ](assets/image-1.png)
 
 ## SQL queries
 After the data was uploaded to SQL server, a number of queries have been done to explore the data: 
 
 1.	How many more-than-3-month-old cats have a long fur?
 Result: 
-![query1](image-7.png)
+![query1](assets/image-7.png)
 2.	Top 5 states has the largest number of pets 
 Result: 
-![query2](image-4.png)
+![query2](assets/image-4.png)
 
 3.	The number of pets for each kind
 Result: 
-![query3](image-5.png)
+![query3](assets/image-5.png)
 
 4.	How many more-than-1-month-old pet met the heath requirements (Vactinated, dewormed, Sterilized and in a heathy state)? 
-![query4](image-6.png)
+![query4](assets/image-6.png)
